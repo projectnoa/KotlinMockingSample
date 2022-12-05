@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinMockingSample</string>
+    <string name="firstNameLabel">First Name:</string>
+    <string name="lasttNameLabel">Last Name:</string>
+    <string name="AgeLabel">Age:</string>
+    <string name="firstNamePlaceholder">First Name</string>
+    <string name="lasttNamePlaceholder">Last Name</string>
+    <string name="AgePlaceholder">Age</string>
+    <string name="SummaryPlaceHolder">Summary</string>
+    <string name="profilePhotoDescription">profile photo</string>
+</resources>
